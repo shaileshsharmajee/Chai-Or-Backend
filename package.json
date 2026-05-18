@@ -1,0 +1,19 @@
+{
+  "name": "backendandchai",
+  "version": "1.0.0",
+  "description": "this is a backend project with chai and code youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "node",
+    "express",
+    "mongodb",
+    "etc"
+  ],
+  "author": "shailesh sharma",
+  "license": "ISC"
+}
